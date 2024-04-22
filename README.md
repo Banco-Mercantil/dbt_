@@ -36,7 +36,7 @@ Antes de proceguirmos com o projeto é necessário a instalação de algumas ext
 
 
 ## 🚀 Inicializando o projeto DBT
-Com a ferramenta do VS Code aberta, acesse o terminal pelo atalho *Ctrl'*. 
+Com a ferramenta do VS Code aberta, acesse o terminal pelo atalho *Ctrl + '*. 
 Acesse o caminho no qual deseja configurar seu primeiro projeto:
 ```bash
 PS: ...> cd K:\
